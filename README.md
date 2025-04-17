@@ -7,8 +7,10 @@ In this runbook will be explain everything about the pipeline
 - Docker hub
 - Github (branches)
 
-### Secrets
+### Variables
 - REPO_NAME
+
+### Secrets
 - DOCKER_USERNAME
 - DOCKER_PASSWORD
 
