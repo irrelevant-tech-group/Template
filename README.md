@@ -1,6 +1,6 @@
 # Runbook CI/CD Pipeline for <project_name>
 
-In this runbook will be explain everything about the pipeline
+In this runbook will be explain everything about the pipeline of the code for the project
 
 ## Pre-requisites
 ### Required Access
