@@ -11,14 +11,14 @@ In this runbook will be explain everything about the pipeline
 - DOCKER_USERNAME
 - DOCKER_PASSWORD
 
-## Procedures (Github actions)
+## Pipeline
 
 The pipeline is designed to:
-- Code in Dev branch:
+- Code in `dev` branch:
   - In this branch some test workflows will trigger
-  - Merge to production
-- When a commit/push is made, a Docker image will be created and pushed into Docker hub
+- Merge to `prod`branch
+  - When a commit/push is made, a Docker image will be created and pushed into Docker hub
 
 ### Triggers 
-- tests.yml: Push to `tests` branch
+- tests.yml: Push to `dev` branch
 - build_and_push_image.yml: Push to `prod` branch
