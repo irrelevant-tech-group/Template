@@ -8,11 +8,11 @@ In this runbook will be explain everything about the pipeline
 - Github (branches)
 
 ### Secrets
+- REPO_NAME
 - DOCKER_USERNAME
 - DOCKER_PASSWORD
 
 ## Pipeline
-
 The pipeline is designed to:
 - Code in `dev` branch:
   - In this branch some test workflows will trigger
