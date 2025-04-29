@@ -1,8 +1,15 @@
 # Repository Standards
 
-## name
+## Naming Convension
 
-# Runbook CI/CD Pipeline for <project_name>
+- Divide the name in min 2 parts:
+  - First one must be the hiring company name
+  - Second name could be:
+     - Type of develpment (Web Development, Mobile Development, API Development)
+     - Type of service (Support Services, Consulting Services, Maintenance Services, Integration Services)
+
+
+# Runbook CI/CD Pipeline for project
 
 In this runbook will be explain everything about the pipeline of the code for the project
 
